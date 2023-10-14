@@ -1,7 +1,6 @@
 # dots
 This is my personal dotfiles repo.
 
-<!--
 # Apps
 ```
 Window Manager: i3-wm
@@ -23,7 +22,6 @@ QT Theme: Fluent Round Dark
 Icons: Papirus-dark
 Cursor: Adwaita
 ```
--->
 
 # Installation (Not Tested)
 ```
