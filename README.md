@@ -8,11 +8,11 @@ Bar: polybar
 Launcher: rofi
 Notifications: dunst
 Terminal: alacritty
-File Manager: pcmanfm-qt
+File Manager: pcmanfm
 Polkit: polkit-gnome
 Fonts: iosevka nerd | jetbrains mono
 Wallpapers: nitrogen
-Editor: neovim (and neovide)
+Editor: neovim
 ```
 
 # Themes and cursor theme 
