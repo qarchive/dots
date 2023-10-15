@@ -8,7 +8,7 @@ Bar: polybar
 Launcher: rofi
 Notifications: dunst
 Terminal: alacritty
-File Manager: pcmanfm
+File Manager: pcmanfm-qt
 Polkit: polkit-gnome
 Fonts: iosevka nerd | jetbrains mono
 Wallpapers: nitrogen
